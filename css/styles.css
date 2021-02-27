@@ -1,0 +1,32 @@
+body {
+    font-family: 'Open Sans', sans-serif;
+    background-color: rgb(255 255 255);
+    color: black;
+}
+
+#logo {
+    margin: 2em 0 2em 15em;
+    height: 4em;
+    width: auto;
+}
+
+h1 {
+    margin: 0 0 0 6.7em;
+}
+
+#color {
+    color: rgb(102 176 187);
+    margin: 0 0 0 6.7em;
+}
+
+h2 {
+    font-size: 3.5em;
+    margin-left: 4em;
+    font-weight: medium;
+}
+
+#background {
+    background-color: rgb(220 220 220);
+    padding: 3em;
+    margin: 0 -2em 0 -2em;
+}
